@@ -12,14 +12,14 @@
 body {
   font-family: "Work Sans", sans-serif;
 }
-// <uniquifier>: Use a unique and descriptive class name
+/* // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 100 to 900
 .work-sans-<uniquifier> {
   font-family: "Work Sans", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-}
+} */
 .parent {
   background-color: #eee;
 }
