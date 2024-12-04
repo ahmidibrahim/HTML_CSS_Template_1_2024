@@ -18,5 +18,11 @@
     "titleBar.inactiveBackground": "#1857a499",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#1857a4"
+  "peacock.color": "#1857a4",
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "checkpoints.addCheckpointOnSave": true,
+  "errorLens.onSave": true,
+  "files.autoSaveWhenNoErrors": true,
+  "files.autoSaveWorkspaceFilesOnly": true
 }
